@@ -1,0 +1,1 @@
+- Useful to let Claude Code use matplotlib to talk visually
