@@ -1,1 +1,3 @@
 - Useful to let Claude Code use matplotlib to talk visually
+- Explicitly state `Don't look at any unrelated contents`
+- First make Claude Code show prototypes
